@@ -13,7 +13,7 @@ Sou um desenvolvedor front-end e estudante de engenharia de software com sólido
 
 ---
 
-### 🧰 Skills
+### 🪛 Skills
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -35,7 +35,7 @@ Sou um desenvolvedor front-end e estudante de engenharia de software com sólido
 
 ---
 
-### Projetos
+### 💻 Projetos em destaque
 
 <div align="center">
   <table>
@@ -60,12 +60,12 @@ Sou um desenvolvedor front-end e estudante de engenharia de software com sólido
       </td>
       <td align="center">
         <a href="https://willyanmiranda.netlify.app/">
-          <img src="https://link-para-imagem-do-projeto3.com/imagem3.png" alt="Portfólio" width="300"/>
+          <img src="https://github.com/willyanmiranda/willyanmiranda/blob/main/print-folio.png" alt="Portfólio" width="300"/>
         </a>
         <br>
         <strong>Portfólio</strong>
         <br>
-        <a href="https://github.com/usuario/nome-do-terceiro-projeto">Repositório</a>
+        <a href="https://github.com/willyanmiranda/portfolio">Repositório</a>
       </td>
     </tr>
   </table>
