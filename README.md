@@ -1,12 +1,10 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-
-Olá! Sou Willyan, apaixonado por tecnologia e design, atualmente trabalhando como Desenvolvedor Front-End e cursando Engenharia de Software.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 💡 Sobre Mim:
 
-Com uma sólida base em HTML/CSS, JavaScript, TypeScript e frameworks como React.js e Angular, tenho experiência na criação e manutenção de sites com milhões de acessos mensais. Gosto de me manter atualizado com as últimas tendências e melhores práticas do desenvolvimento web para garantir que meus projetos sejam eficientes, escaláveis e de alta qualidade.
+Sou um desenvolvedor front-end e estudante de engenharia de software com sólidos conhecimentos em React, Angular e linguagens como JavaScript e TypeScript. Tenho ampla experiência na criação e manutenção de sites com milhões de acessos mensais. Além disso, meu background como designer gráfico me proporciona uma perspectiva única na integração de design e desenvolvimento.
 
 
    <p align="left">
@@ -21,10 +19,8 @@ Com uma sólida base em HTML/CSS, JavaScript, TypeScript e frameworks como React
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
