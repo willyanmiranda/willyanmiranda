@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-💡 Sobre Mim:
+### 💡Sobre Mim
 
 Sou um desenvolvedor front-end e estudante de engenharia de software com sólidos conhecimentos em React, Angular e linguagens como JavaScript e TypeScript. Tenho ampla experiência na criação e manutenção de sites com milhões de acessos mensais. Além disso, meu background como designer gráfico me proporciona uma perspectiva única na integração de design e desenvolvimento.
 
@@ -29,7 +29,47 @@ Sou um desenvolvedor front-end e estudante de engenharia de software com sólido
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<br />
+
+<br/>
+<br/>
+
+---
+
+### Projetos
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://rinocerontes-app.netlify.app/">
+          <img src="https://github.com/willyanmiranda/willyanmiranda/blob/main/rinocerontes-print.jpg" alt="task manager" width="300"/>
+        </a>
+        <br>
+        <strong>Rinocerontes task manager</strong>
+        <br>
+        <a href="https://github.com/willyanmiranda/project-rinotes">Repositório</a>
+      </td>
+      <td align="center">
+        <a href="https://markdown-app-9u9r.vercel.app/">
+          <img src="https://github.com/willyanmiranda/willyanmiranda/blob/main/projeto-markdown.png" alt="markdown" width="300"/>
+        </a>
+        <br>
+        <strong>Markdown app</strong>
+        <br>
+        <a href="https://github.com/willyanmiranda/markdown-app">Repositório</a>
+      </td>
+      <td align="center">
+        <a href="https://willyanmiranda.netlify.app/">
+          <img src="https://link-para-imagem-do-projeto3.com/imagem3.png" alt="Portfólio" width="300"/>
+        </a>
+        <br>
+        <strong>Portfólio</strong>
+        <br>
+        <a href="https://github.com/usuario/nome-do-terceiro-projeto">Repositório</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #
 
