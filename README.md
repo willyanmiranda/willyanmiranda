@@ -4,7 +4,7 @@
 
 ### 💡Sobre Mim
 
-Sou um desenvolvedor front-end e estudante de engenharia de software com sólidos conhecimentos em React, Angular e linguagens como JavaScript e TypeScript. Tenho ampla experiência na criação e manutenção de sites com milhões de acessos mensais. Além disso, meu background como designer gráfico me proporciona uma perspectiva única na integração de design e desenvolvimento.
+Sou um desenvolvedor front-end e estudante de engenharia de software com sólidos conhecimentos em React, Next.js e Angular e linguagens como JavaScript e TypeScript. Tenho ampla experiência na criação e manutenção de sites com milhões de acessos mensais. Além disso, meu background como designer gráfico me proporciona uma perspectiva única na integração de design e desenvolvimento.
 
 
    <p align="left">
