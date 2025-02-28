@@ -58,15 +58,6 @@ Sou um desenvolvedor front-end e estudante de engenharia de software com sólido
         <br>
         <a href="https://github.com/willyanmiranda/markdown-app">Repositório</a>
       </td>
-      <td align="center">
-        <a href="https://willyanmiranda.netlify.app/">
-          <img src="https://github.com/willyanmiranda/willyanmiranda/blob/main/print-folio.png" alt="Portfólio" width="300"/>
-        </a>
-        <br>
-        <strong>Portfólio</strong>
-        <br>
-        <a href="https://github.com/willyanmiranda/portfolio">Repositório</a>
-      </td>
     </tr>
   </table>
 </div>
